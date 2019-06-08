@@ -38,6 +38,11 @@ h1, h2{
 	text-align: center;}
 
 
+.webzone {
+    margin-top: -20px;
+    margin-left: -5px;
+}
+
 .header{
 	border: 0px;
 	}
